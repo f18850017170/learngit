@@ -1,1 +1,2 @@
 understand how stage works
+what git manage is changes not file
