@@ -5,3 +5,4 @@ a new day
 create a new branch
 creating a new branch is quick & simple
 git merge --no-ff
+create a new commit
