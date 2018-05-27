@@ -1,5 +1,6 @@
 understand how stage works
 what git manage is changes not file
 a new day
+
 create a new branch
-creating a new branch is quick
+creating a new branch is quick & simple
